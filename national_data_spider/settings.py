@@ -94,11 +94,11 @@ PROXY_POOL_URL = 'http://localhost:5555/random'
 
 # 配置MySQL
 MYSQL_HOST = 'localhost'
-MYSQL_DB = 'national_data_hgjd'
+MYSQL_DB = 'national_data_hgyd'
 MYSQL_USER = 'root'
 MYSQL_PASSWORD = 'password'
 MYSQL_PORT = 3306
 MYSQL_CHARSET = 'utf8'
 
 # hgyd=月度, hgjd=季度, hgnd=年度, fsyd=分省月度, fsjd=分省季度, fsnd=分省年度
-DBCODE = 'hgjd'
+DBCODE = 'hgyd'
